@@ -1,11 +1,11 @@
 {
-  "name": "LuffyGear5",
+  "name": "snow fall",
   "version": "1.0",
-  "description": "Theme Inspired By One Piece",
+  "description": "just snow faling",
   "color": "#FF4500",
   "authors": [
     {
-      "name": "mxdhav",
+      "name": "mistorypotato",
       "id": "757530324686340197"
     }
    ],
@@ -23,7 +23,7 @@
          "#4f5660"
       ],
       "TEXT_NORMAL": [
-         "#FBFBFB",
+         "#000000",
          "#2e3338"
       ],
       "TEXT_MUTED": [
@@ -147,7 +147,7 @@
    },
   "background": {
     "blur": 0.1,
-    "url": "https://cdn.discordapp.com/attachments/768134559157714994/1139171845455749170/IMG_4062.jpg",
+    "url": "https://i.imgur.com/SolCd4O.jpg",
     "alpha": 0.65
   }
 }
